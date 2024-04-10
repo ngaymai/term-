@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./test/Test",
+        "./main/zcode/utils"
+    ]
+}
